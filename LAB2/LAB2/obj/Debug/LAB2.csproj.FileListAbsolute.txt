@@ -1,0 +1,7 @@
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\bin\Debug\LAB2.exe.config
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\bin\Debug\LAB2.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\bin\Debug\LAB2.pdb
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\obj\Debug\LAB2.csproj.AssemblyReference.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\obj\Debug\LAB2.csproj.CoreCompileInputs.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\obj\Debug\LAB2.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB2\LAB2\obj\Debug\LAB2.pdb

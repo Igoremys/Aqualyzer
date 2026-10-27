@@ -1,0 +1,7 @@
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\bin\Debug\LAB5.exe.config
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\bin\Debug\LAB5.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\bin\Debug\LAB5.pdb
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\obj\Debug\LAB5.csproj.AssemblyReference.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\obj\Debug\LAB5.csproj.CoreCompileInputs.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\obj\Debug\LAB5.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB5\LAB5\obj\Debug\LAB5.pdb

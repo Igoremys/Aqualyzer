@@ -1,0 +1,7 @@
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\bin\Debug\LAB6.exe.config
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\bin\Debug\LAB6.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\bin\Debug\LAB6.pdb
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\obj\Debug\LAB6.csproj.AssemblyReference.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\obj\Debug\LAB6.csproj.CoreCompileInputs.cache
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\obj\Debug\LAB6.exe
+C:\фотки\Скфу\СКФУ\Паттерны\LAB6\LAB6\obj\Debug\LAB6.pdb
