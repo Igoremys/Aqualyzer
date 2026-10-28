@@ -52,7 +52,7 @@
 Полный исходный код также доступен в репозитории GitHub: [https://github.com/Igoremys/Aqualyzer.git](https://github.com/Igoremys/Aqualyzer.git)
 
 > *Рисунок 2 – Результат работы программы*
-> !(images/2.png)
+> ![result](images/2.png)
 
 ## Вывод
 
