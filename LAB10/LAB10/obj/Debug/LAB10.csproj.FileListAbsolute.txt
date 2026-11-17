@@ -1,0 +1,6 @@
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\bin\Debug\LAB10.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\bin\Debug\LAB10.pdb
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\obj\Debug\LAB10.csproj.AssemblyReference.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\obj\Debug\LAB10.csproj.CoreCompileInputs.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\obj\Debug\LAB10.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB10\LAB10\obj\Debug\LAB10.pdb
