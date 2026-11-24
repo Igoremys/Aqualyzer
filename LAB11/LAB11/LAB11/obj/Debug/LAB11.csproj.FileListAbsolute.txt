@@ -1,0 +1,7 @@
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\bin\Debug\LAB11.exe.config
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\bin\Debug\LAB11.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\bin\Debug\LAB11.pdb
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\obj\Debug\LAB11.csproj.AssemblyReference.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\obj\Debug\LAB11.csproj.CoreCompileInputs.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\obj\Debug\LAB11.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB11\LAB11\LAB11\obj\Debug\LAB11.pdb
