@@ -1,0 +1,7 @@
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\obj\Debug\LAB14.csproj.AssemblyReference.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\obj\Debug\LAB14.csproj.CoreCompileInputs.cache
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\bin\Debug\LAB14.exe.config
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\bin\Debug\LAB14.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\bin\Debug\LAB14.pdb
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\obj\Debug\LAB14.exe
+C:\Users\seses\Downloads\Aqualyzer-main\Aqualyzer-main\LAB14\LAB14\obj\Debug\LAB14.pdb
